@@ -3,3 +3,9 @@ let jp = {
   lastName: 'Dugaojo',
   age: 25,
 };
+
+let vanessa = {
+  firstName: 'Vanesas',
+  lastName: 'Panales',
+  age: 22,
+};
